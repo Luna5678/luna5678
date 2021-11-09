@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lonna.
+### Hi there! I'm Lonna. :smiley: 
 
 <p>:zap: Web Development Project Manager turned Web Developer. I love building resources for people!</p>
 <p>:woman_technologist: Aspiring Software Engineer</p>
